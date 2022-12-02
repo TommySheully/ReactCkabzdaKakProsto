@@ -1,0 +1,62 @@
+.Body {
+    background-color: lightyellow;
+    border: 10px solid #282c34;
+    width: 450px;
+    height: 150px;
+}
+
+.onnBox {
+    border: #282c34;
+    padding: 10px;
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 5px solid #282c34;
+    margin: 10px;
+}
+
+.clearBox {
+    border: #282c34;
+    padding: 10px;
+    width: 100px;
+    background-color: white;
+    height: 100px;
+    float: left;
+    border: 5px solid #282c34;
+    margin: 10px;
+}
+
+.offBox {
+    border: #282c34;
+    padding: 10px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 5px solid #282c34;
+    margin: 10px;
+}
+
+.indicationOnn {
+    border-radius: 100px;
+    padding: 10px;
+    background-color: lime;
+    width: 80px;
+    height: 80px;
+    float: left;
+    border: 5px solid #282c34;
+    margin: 10px;
+}
+
+.indicationOff {
+    border-radius: 100px;
+    padding: 10px;
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    float: left;
+    border: 5px solid #282c34;
+    margin: 10px;
+}
+
